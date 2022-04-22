@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
 int main(){
-    std::cout<<"hellow world"<<std::endl;
+    std::cout<<"hellow world 2"<<std::endl;
     return 0;
 }
